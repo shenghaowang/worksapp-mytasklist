@@ -1,0 +1,25 @@
+{
+  "name": "worksapp-mytasklist",
+  "version": "1.0.0",
+  "description": "Simple task manager",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shenghao Wang",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "mongojs": "^2.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenghaowang/worksapp-mytasklist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shenghaowang/worksapp-mytasklist/issues"
+  },
+  "homepage": "https://github.com/shenghaowang/worksapp-mytasklist#readme"
+}
